@@ -1,3 +1,1 @@
-# Validador-CPF
-
-Feito para o Desafio - Hiring Coders 
+# Validador CPF - Desafio do programa Hiring Coders
